@@ -39,4 +39,4 @@ A lightweight, customizable Minecraft Spigot plugin offering essential quality-o
 
 ---
 
-🔧 **Built with love by @SlawSimulation for an immersive and streamlined Minecraft survival experience.**
+🔧 **Built by @SlawSimulation for an immersive Minecraft experience.**
